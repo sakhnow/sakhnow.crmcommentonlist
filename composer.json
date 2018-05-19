@@ -1,0 +1,24 @@
+{
+    "name": "sakhnow/sakhnow.crmcommentonlist",
+    "description": "Bitrix24 CRM module extension for output last comment on company list",
+    "keywords": ["bitrix", "bitrix24", "module", "crm", "extension"],
+    "type": "bitrix-d7-module",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/sakhnow/sakhnow.crmcommentonlist/issues",
+        "source": "https://github.com/sakhnow/sakhnow.crmcommentonlist"
+    },
+    "authors": [
+        {
+            "name": "Vladimir Sakhno",
+            "email": "sakhnow@gmail.com"
+        }
+    ],
+    "extra": {
+        "installer-name": "crmcommentonlist"
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "composer/installers": "^1.0"
+    }
+}
